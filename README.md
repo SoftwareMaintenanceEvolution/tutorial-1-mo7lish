@@ -3,7 +3,7 @@
 Hi! I'm Mohammed Alshamrani, a student in the Framework-Based Software Design and Development course. 
 I’m eager to deepen my understanding of modern software maintenance practices, especially in areas like refactoring, modularization, and system evolution. Through this course, I also hope to gain practical experience in analyzing and improving legacy systems, transforming outdated architectures into more maintainable and efficient solutions.
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+https://raw.githubusercontent.com/mo7lish/tutorial-1-mo7lish/refs/heads/profile-upload/sa-n5lh.jpg <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
